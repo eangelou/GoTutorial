@@ -3,7 +3,7 @@ A repository for various small go exercises
 
 ## Version struct
 See main package. Use:
-
+```
 $ ./main -version 1.1.1
 1.2.3
 {"version":"1.2.3"}
@@ -22,4 +22,4 @@ $ ./main -version 1.1.1
 {"version":"1.2.3"}
 {"version":"1.1.1"}
 {"version":"1.0.1"}
-
+```
