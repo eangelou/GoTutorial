@@ -1,4 +1,4 @@
-#GoTutorial
+# GoTutorial
 A repository for various small go exercises
 
 ## Version struct
